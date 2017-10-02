@@ -1,0 +1,4 @@
+#Mon Oct 02 10:30:29 MDT 2017
+base.0=/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

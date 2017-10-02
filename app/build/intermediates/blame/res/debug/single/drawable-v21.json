@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/xuan/.android/build-cache/a8bfc2795afcc2e1b8c0b0363be4c42df39d0477/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/xuan/.android/build-cache/a8bfc2795afcc2e1b8c0b0363be4c42df39d0477/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/xuan/.android/build-cache/a8bfc2795afcc2e1b8c0b0363be4c42df39d0477/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/xuan/.android/build-cache/a8bfc2795afcc2e1b8c0b0363be4c42df39d0477/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

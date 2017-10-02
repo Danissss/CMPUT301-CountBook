@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

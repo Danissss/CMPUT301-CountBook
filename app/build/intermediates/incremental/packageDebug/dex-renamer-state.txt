@@ -1,0 +1,7 @@
+#Mon Oct 02 10:28:56 MDT 2017
+base.0=/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_032333ec0919a55d1b204b724fc1b4c4134299c4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0507c06827fe18fb2983ca5c62b8167a214918f/classes.dex
+base.1=/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0507c06827fe18fb2983ca5c62b8167a214918f
+file.0=/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_032333ec0919a55d1b204b724fc1b4c4134299c4/classes.dex
