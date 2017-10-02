@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/ca03fb74f65aadb13b7c27e9b9e62c5be02767ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_13785cdff300fb6a8eca8a1e3e771a53cbbda47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_f17826b0968f1e639ea79140e0352247f45fee2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/386e14851c185b880c403c858ff457a296e0fcb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_6ee23d65b88f59a9bdc779f12c37a8635e242779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/92e2edc8f4448a8c193ae3acd6a744a54c137c4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_48f86dd6699a42ec78d7f6186ce2d90933af855e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0507c06827fe18fb2983ca5c62b8167a214918f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/ff95aa16a172f7142b03f89843579ee0cc0eb8b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_6936391e6aca6fd0d5d29f8a5f0f38ea04134797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/397102ec2d8447734a7b5fdfabbbaa31fb6f54be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_b8c33622c4e2ed7d2ba6a195345f0e57af4650fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.2_500d8a28e2bf6ac434f4d45c3659dd2b63036425/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/gson-2.8.2_500d8a28e2bf6ac434f4d45c3659dd2b63036425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/aad2aab9b597e1643d07d47adba8bd4d808e92be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_c21f177b3e7154dc109241365cb0d0211a220d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/f4add546f1913250441bcb395d1632e7f6c2cb14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_611fbb0e118b46f33faac8e4fee43b82a9eeae59.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="299c1051f2a80781ddf6ae648abe2df30ef7fde9">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_032333ec0919a55d1b204b724fc1b4c4134299c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/cf858df1f8cbd871f525d8621bf6008c221750bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_7a12da30d0abbf89498bb365bf073df9722400bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/c5ef541be6863dd40fa207446244832b294cfb66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_c155c33876e7f0b7d4dd2a8a771b2b2c44169da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_4f1148036753541b48a05e87c79ac53376be6ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuan/.android/build-cache/81c37e16ef61e513f60df5e21313880125a8605f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/xuan/Desktop/lonelytwitter/xcao2-CountBook/app/build/intermediates/pre-dexed/release/classes_7b1340b7704778bf1de5a3ad25fd43de7d1e63ef.jar" />
+    </item>
+
+</items>
