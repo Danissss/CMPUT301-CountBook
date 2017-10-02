@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.xuan.xcao2_countbook.createCount">
+
+    <EditText
+        android:id="@+id/count_name"
+        android:layout_width="395dp"
+        android:layout_height="81dp"
+        android:layout_marginBottom="8dp"
+        android:ems="10"
+        android:hint="Enter Count Name"
+        android:inputType="textPersonName"
+        android:selectAllOnFocus="true"
+        app:layout_constraintBottom_toTopOf="@+id/count_date"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:id="@+id/button_reset"
+        android:layout_width="88dp"
+        android:layout_height="51dp"
+        android:text="Reset"
+        android:layout_marginLeft="37dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/count_commets"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintRight_toLeftOf="@+id/button_save"
+        android:layout_marginRight="8dp"
+        app:layout_constraintVertical_bias="0.488"
+        app:layout_constraintHorizontal_bias="0.05" />
+
+    <EditText
+        android:id="@+id/count_commets"
+        android:layout_width="395dp"
+        android:layout_height="141dp"
+        android:layout_marginBottom="107dp"
+        android:ems="10"
+        android:hint="Comments..."
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <EditText
+        android:id="@+id/count_date"
+        android:layout_width="395dp"
+        android:layout_height="42dp"
+        android:layout_marginBottom="8dp"
+        android:ems="10"
+        android:hint="Enter Date"
+        android:inputType="date"
+        app:layout_constraintBottom_toTopOf="@+id/count_commets"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="51dp"
+        android:layout_marginRight="51dp"
+        android:layout_marginTop="8dp"
+        android:onClick="created_activity"
+        android:text="Save"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/count_commets"
+        app:layout_constraintVertical_bias="0.454" />
+
+    <EditText
+        android:id="@+id/count_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="Initial Value"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/count_name"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.625" />
+
+</android.support.constraint.ConstraintLayout>
